@@ -1,0 +1,25 @@
+{
+  "name": "playwright-automation",
+  "version": "1.0.0",
+  "description": "This repository will contain all the required knowledge that you need to start practising playwright. We will cover playwright major concepts like page object model, different selectors, test flakiness, ci cd with github action, api testing using playwright",
+  "main": "index.js",
+  "scripts": {
+    "test": "npx playwright test",
+    "test:headed": "npx playwright test --headed",
+    "test:report": "npx playwright show-report"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/daniyalfarman/Playwright-Automation.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/daniyalfarman/Playwright-Automation/issues"
+  },
+  "homepage": "https://github.com/daniyalfarman/Playwright-Automation#readme",
+  "devDependencies": {
+    "@playwright/test": "^1.55.1"
+  }
+}
