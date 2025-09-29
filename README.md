@@ -1,14 +1,9 @@
-Here’s a solid **README.md** you can drop into your `Playwright-Automation` repo 👇
-
----
-
-```markdown
 # 🎭 Playwright-Automation
 
-This repository contains everything you need to **start practicing Playwright** automation testing.  
+This repository contains everything you need to **start practicing Playwright** automation testing.
 It covers **fundamental to advanced concepts** with practical examples and real scenarios.
 
-We’ll be using the demo practice site:  
+We’ll be using the demo practice site:
 👉 [https://qa-practice.netlify.app/](https://qa-practice.netlify.app/)
 
 ---
@@ -29,6 +24,7 @@ We’ll be using the demo practice site:
 ---
 
 ## 🗂️ Folder Structure (Recommended)
+
 ```
 
 Playwright-Automation/
@@ -49,17 +45,18 @@ Playwright-Automation/
 │── package.json
 │── README.md
 
-````
+```
 
 ---
 
 ## ⚡ Getting Started
 
 ### 1. Clone the repo
+
 ```bash
 git clone https://github.com/your-username/Playwright-Automation.git
 cd Playwright-Automation
-````
+```
 
 ### 2. Install dependencies
 
@@ -112,11 +109,4 @@ Feel free to fork this repo, create branches, and raise pull requests to improve
 
 ## 📌 Author
 
-Maintained by **[Your Name]** ✨
-
-```
-
----
-
-Would you like me to also add a **GitHub Actions workflow file (`.github/workflows/playwright.yml`)** to this repo so CI/CD runs out of the box?
-```
+Maintained by **Daniyal Farman** ✨
